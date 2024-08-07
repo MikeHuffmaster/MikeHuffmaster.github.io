@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Mike Huffmaster]
-description: ["My journey from construction to computer science.  I will track my journey and the steps I take to branch into the technology field.  I will showcase my projects, resume, and blog my journey."]
+description: ["Welcome to my personal website, where I document my transition from a career in construction to the exciting world of computer science. Follow along as I share the steps I take to break into the technology field. Here, you'll find detailed accounts of my projects, an up-to-date resume, and a blog chronicling my experiences and progress. Join me on this transformative journey!]
